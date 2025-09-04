@@ -1,7 +1,7 @@
-# Database-Project-in-Distributed-Environments
- This is a project done in the 2nd year of the Master's and consists in building a web server with the help of the Javascript / Node.JS language, which will realize
- multiple connections (asynchronous) with different data sources, either by direct query (SQL / NoSQL) or by
-through an API or a file.
+# Database Project in Distributed Environments
 
-## 
+This project was developed in the second year of my Master’s program. The goal was to build a Node.js-based web server capable of managing multiple asynchronous connections to heterogeneous data sources, such as SQL/NoSQL databases, APIs and files. Through this project, I gained hands-on experience with distributed environments, asynchronous programming and integrating diverse data access methods.
+
+##
+
 ![1](screenshots/application.png)
